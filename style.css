@@ -12,8 +12,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(85,57,39);
-    background: linear-gradient(to bottom right,rgb(85,57,39) , white);
+    background: #6f372e;
+    background: linear-gradient(to bottom right,#6f372e , white);
   }
   
   .container {
